@@ -6,11 +6,11 @@ Practicaremos un poco de como usar JSON para consumir datos que usaremos en nues
 
 ## Tabla de Contenido
 
-[] - Estructura del Proyecto
-[] - Creación de Componentes
-[] - Manejo del Estado
-[] - Uso de JSON para proveer datos
-[] - Uso de Context API de ReactJS
+- [] Estructura del Proyecto
+- [] Creación de Componentes
+- [] Manejo del Estado
+- [] Uso de JSON para proveer datos
+- [] Uso de Context API de ReactJS
 
 ## Screenshot
 
