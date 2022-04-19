@@ -49,7 +49,7 @@ Practicaremos un poco de como usar JSON para consumir datos que usaremos en nues
 - Font size: 18px (card titles e.g. Work, Play)
 
 #### Fuentes
-
+__
 - Family: [Rubik](https://fonts.google.com/specimen/Rubik)
 - Weights: 300, 400, 500
 
